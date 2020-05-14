@@ -3,6 +3,7 @@
 This is a sample from the full dataset that will be released with the paper "Generating Tips from Product Reviews" after the acceptance.
 
 The dataset contains the following fields:
+
 review_id - identifier of the review in the dataset. integer
 
 asin - product identifier. string
