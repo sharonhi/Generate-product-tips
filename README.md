@@ -24,4 +24,4 @@ before/after - tip timing, useful before/after the purchase (or both). string (b
 
 extend_position - in case the tip can be extended to one of the adjacent sentences for context, the adjacent sentence is mark 
 
-as before/after the tip.
+as before/after the tip. string
